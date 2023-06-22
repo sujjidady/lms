@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2style="color:red"> manual deployement </h2>
+<h2> manual deployement </h2>
 </body>
 </html>
